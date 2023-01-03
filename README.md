@@ -5,7 +5,7 @@ Multilabel classification with RoBERTa from huggingface library
 ## How to use
 
 ```bash
-pip install MiSeCom
+pip install MiSeCom evaluate
 ```
 
 ```python
